@@ -1,0 +1,10 @@
+1. 下載
+https://cmder.net/
+
+2. 解壓
+
+3. 加路徑
+
+4. cmd
+Cmder.exe /REGISTER ALL
+

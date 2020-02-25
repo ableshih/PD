@@ -1,0 +1,63 @@
+
+git init
+
+
+加入
+git add
+
+一次加入全部的檔案
+git add .
+
+
+git config --global user.username <你的 github 使用者名稱>
+git config --global user.name "ableshih"
+
+
+//將本地分支推送到遠端分支
+git push 遠端資料庫名稱 遠端分支名稱
+
+資料庫名稱:origin
+遠端分支名稱:master
+
+所以輸入
+
+git push origin master
+跳出輸入github帳號選項和密碼視窗
+
+//查詢遠端數據庫
+git remote
+
+
+//複製遠端資料庫
+git clone 遠端資料庫網址
+
+
+
+
+
+
+(提交
+Git commit 
+
+
+
+開始使用Git (init, clone)
+
+
+//確認狀態
+git status
+//加入索引
+git add.
+//加入commit紀錄
+git commit -m '更新訊息'
+//顯示歷史紀錄
+git log
+
+
+複製)別人的
+git clone https://gogojimmy@github.com/gogojimmy/Animal.git
+
+檢查目前 Git 的狀態
+git status
+
+

@@ -1,0 +1,715 @@
+
+D:\CODE\hugo\Sites\ableshih\public
+λ git init
+Initialized empty Git repository in D:/CODE/hugo/Sites/ableshih/public/.git/
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git add .
+warning: LF will be replaced by CRLF in 404.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/404.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/Adafruit_google_assistant_ifttt.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/Blynk_google_assistant_ifttt.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/Markdown.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/STEP.MD.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/about/d.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/about/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/post/0.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/post/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/robots.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ableshih.github.io-master/sitemap.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in about/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/css/main.ab98e12b.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/css/rtl.bf9d5394.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/js/algolia_search.d220ba26.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/js/fuse_search.1ada4bca.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in assets/js/lunr_search.d90858c3.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in authors/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in authors/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in authors/muniftanjim/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in authors/muniftanjim/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in authors/muniftanjim/page/2/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in authors/muniftanjim/page/3/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in authors/muniftanjim/page/4/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in authors/muniftanjim/page/5/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/features/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/features/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/features/page/2/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/features/page/3/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/features/page/4/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/others/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/others/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/tutorial/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in categories/tutorial/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in css/custom.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/authors/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/comments-support/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/config-file/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/cover-image/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/emoji-support/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/installation/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/katex-support/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/mathjax-support/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/menus/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/opengraph/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/page/2/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/page/3/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/page/4/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/search-algolia/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/search-fuse-js/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/search-lunr-js/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/search-support/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/shortcodes/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/sidebar/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/syntax-highlighting/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/translation/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/updating/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in docs/widgets/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in js/custom.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in page/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in page/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in post/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in robots.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in search/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in search/index.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in series/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in series/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in sitemap.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/algolia/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/algolia/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/authors/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/authors/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/chroma/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/chroma/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/config/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/config/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/config/page/2/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/fuse.js/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/fuse.js/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/hub/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/hugo/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/i18n/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/i18n/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/katex/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/katex/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/lunr.js/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/lunr.js/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/menus/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/menus/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/og/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/og/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/pygments/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/pygments/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/search/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/search/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/shortcode/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/shortcode/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/translation/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/translation/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/widgets/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tags/widgets/index.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in typography/index.html.
+The file will have its original line endings in your working directory
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git commit -m "good"
+[master (root-commit) 149b3ba] good
+ 179 files changed, 32175 insertions(+)
+ create mode 100644 404.html
+ create mode 100644 ableshih.github.io-master/404.html
+ create mode 100644 ableshih.github.io-master/Adafruit_google_assistant_ifttt.html
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt.html
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/1.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/10.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/11.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/12.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/13.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/14.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/15.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/16.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/17.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/18.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/19.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/2.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/20.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/3.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/4.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/5.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/6.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/7.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/8.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/9.jpg
+ create mode 100644 ableshih.github.io-master/Blynk_google_assistant_ifttt/code.jpg
+ create mode 100644 ableshih.github.io-master/Markdown.md
+ create mode 100644 ableshih.github.io-master/README.md
+ create mode 100644 ableshih.github.io-master/STEP.MD
+ create mode 100644 ableshih.github.io-master/_config.yml
+ create mode 100644 ableshih.github.io-master/about/d
+ create mode 100644 ableshih.github.io-master/about/index.html
+ create mode 100644 ableshih.github.io-master/favicon-32x32.png
+ create mode 100644 ableshih.github.io-master/favicon.ico
+ create mode 100644 ableshih.github.io-master/favicon.png
+ create mode 100644 ableshih.github.io-master/index.html
+ create mode 100644 ableshih.github.io-master/index.xml
+ create mode 100644 ableshih.github.io-master/post/0.md
+ create mode 100644 ableshih.github.io-master/post/index.html
+ create mode 100644 ableshih.github.io-master/robots.txt
+ create mode 100644 ableshih.github.io-master/sitemap.xml
+ create mode 100644 about/index.html
+ create mode 100644 assets/css/main.ab98e12b.css
+ create mode 100644 assets/css/rtl.bf9d5394.css
+ create mode 100644 assets/gopher.png
+ create mode 100644 assets/js/algolia_search.d220ba26.js
+ create mode 100644 assets/js/comments.57223579.js
+ create mode 100644 assets/js/details-polyfill.45606d79.js
+ create mode 100644 assets/js/fuse_search.1ada4bca.js
+ create mode 100644 assets/js/lunr_search.d90858c3.js
+ create mode 100644 assets/js/main.c3bcf2df.js
+ create mode 100644 assets/js/rtl.e532543e.js
+ create mode 100644 assets/js/sidebar.9ea42a6e.js
+ create mode 100644 assets/js/twemoji.79bd873e.js
+ create mode 100644 authors/index.html
+ create mode 100644 authors/index.xml
+ create mode 100644 authors/muniftanjim/index.html
+ create mode 100644 authors/muniftanjim/index.xml
+ create mode 100644 authors/muniftanjim/page/1/index.html
+ create mode 100644 authors/muniftanjim/page/2/index.html
+ create mode 100644 authors/muniftanjim/page/3/index.html
+ create mode 100644 authors/muniftanjim/page/4/index.html
+ create mode 100644 authors/muniftanjim/page/5/index.html
+ create mode 100644 categories/features/index.html
+ create mode 100644 categories/features/index.xml
+ create mode 100644 categories/features/page/1/index.html
+ create mode 100644 categories/features/page/2/index.html
+ create mode 100644 categories/features/page/3/index.html
+ create mode 100644 categories/features/page/4/index.html
+ create mode 100644 categories/index.html
+ create mode 100644 categories/index.xml
+ create mode 100644 categories/others/index.html
+ create mode 100644 categories/others/index.xml
+ create mode 100644 categories/others/page/1/index.html
+ create mode 100644 categories/tutorial/index.html
+ create mode 100644 categories/tutorial/index.xml
+ create mode 100644 categories/tutorial/page/1/index.html
+ create mode 100644 css/custom.css
+ create mode 100644 docs/authors/index.html
+ create mode 100644 docs/comments-support/index.html
+ create mode 100644 docs/config-file/index.html
+ create mode 100644 docs/cover-image/index.html
+ create mode 100644 docs/emoji-support/index.html
+ create mode 100644 docs/index.html
+ create mode 100644 docs/index.xml
+ create mode 100644 docs/installation/index.html
+ create mode 100644 docs/katex-support/index.html
+ create mode 100644 docs/mathjax-support/index.html
+ create mode 100644 docs/menus/index.html
+ create mode 100644 docs/opengraph/index.html
+ create mode 100644 docs/page/1/index.html
+ create mode 100644 docs/page/2/index.html
+ create mode 100644 docs/page/3/index.html
+ create mode 100644 docs/page/4/index.html
+ create mode 100644 docs/search-algolia/index.html
+ create mode 100644 docs/search-fuse-js/index.html
+ create mode 100644 docs/search-lunr-js/index.html
+ create mode 100644 docs/search-support/index.html
+ create mode 100644 docs/shortcodes/index.html
+ create mode 100644 docs/sidebar/index.html
+ create mode 100644 docs/syntax-highlighting/index.html
+ create mode 100644 docs/translation/index.html
+ create mode 100644 docs/updating/index.html
+ create mode 100644 docs/widgets/index.html
+ create mode 100644 favicon-32x32.png
+ create mode 100644 favicon.ico
+ create mode 100644 favicon.png
+ create mode 100644 images/eden-farm-children-s-village.jpg
+ create mode 100644 images/logo.png
+ create mode 100644 index.html
+ create mode 100644 index.xml
+ create mode 100644 js/custom.js
+ create mode 100644 page/index.html
+ create mode 100644 page/index.xml
+ create mode 100644 page/page/1/index.html
+ create mode 100644 post/888/index.html
+ create mode 100644 post/index.html
+ create mode 100644 post/index.xml
+ create mode 100644 post/page/1/index.html
+ create mode 100644 robots.txt
+ create mode 100644 search/index.html
+ create mode 100644 search/index.json
+ create mode 100644 series/index.html
+ create mode 100644 series/index.xml
+ create mode 100644 sitemap.xml
+ create mode 100644 tags/algolia/index.html
+ create mode 100644 tags/algolia/index.xml
+ create mode 100644 tags/algolia/page/1/index.html
+ create mode 100644 tags/authors/index.html
+ create mode 100644 tags/authors/index.xml
+ create mode 100644 tags/authors/page/1/index.html
+ create mode 100644 tags/chroma/index.html
+ create mode 100644 tags/chroma/index.xml
+ create mode 100644 tags/chroma/page/1/index.html
+ create mode 100644 tags/config/index.html
+ create mode 100644 tags/config/index.xml
+ create mode 100644 tags/config/page/1/index.html
+ create mode 100644 tags/config/page/2/index.html
+ create mode 100644 tags/fuse.js/index.html
+ create mode 100644 tags/fuse.js/index.xml
+ create mode 100644 tags/fuse.js/page/1/index.html
+ create mode 100644 tags/hub/index.html
+ create mode 100644 tags/hub/index.xml
+ create mode 100644 tags/hub/page/1/index.html
+ create mode 100644 tags/hugo/index.html
+ create mode 100644 tags/hugo/index.xml
+ create mode 100644 tags/hugo/page/1/index.html
+ create mode 100644 tags/i18n/index.html
+ create mode 100644 tags/i18n/index.xml
+ create mode 100644 tags/i18n/page/1/index.html
+ create mode 100644 tags/index.html
+ create mode 100644 tags/index.xml
+ create mode 100644 tags/katex/index.html
+ create mode 100644 tags/katex/index.xml
+ create mode 100644 tags/katex/page/1/index.html
+ create mode 100644 tags/lunr.js/index.html
+ create mode 100644 tags/lunr.js/index.xml
+ create mode 100644 tags/lunr.js/page/1/index.html
+ create mode 100644 tags/menus/index.html
+ create mode 100644 tags/menus/index.xml
+ create mode 100644 tags/menus/page/1/index.html
+ create mode 100644 tags/og/index.html
+ create mode 100644 tags/og/index.xml
+ create mode 100644 tags/og/page/1/index.html
+ create mode 100644 tags/pygments/index.html
+ create mode 100644 tags/pygments/index.xml
+ create mode 100644 tags/pygments/page/1/index.html
+ create mode 100644 tags/search/index.html
+ create mode 100644 tags/search/index.xml
+ create mode 100644 tags/search/page/1/index.html
+ create mode 100644 tags/shortcode/index.html
+ create mode 100644 tags/shortcode/index.xml
+ create mode 100644 tags/shortcode/page/1/index.html
+ create mode 100644 tags/translation/index.html
+ create mode 100644 tags/translation/index.xml
+ create mode 100644 tags/translation/page/1/index.html
+ create mode 100644 tags/widgets/index.html
+ create mode 100644 tags/widgets/index.xml
+ create mode 100644 tags/widgets/page/1/index.html
+ create mode 100644 typography/index.html
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote add origin https://github.com/ableshih/ableshih.github.io.git
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+To https://github.com/ableshih/ableshih.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/ableshih/ableshih.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git pull --rebase
+warning: no common commits
+remote: Enumerating objects: 353, done.
+Receiving objects:  82% (2remote: Total 353 (delta 0), reused 0 (delta 0), pack-reused 353
+Receiving objects:  83% (293/353), 59
+Receiving objects: 100% (353/353), 1.42 MiB | 970.00 KiB/s, done.
+Resolving deltas: 100% (175/175), done.
+From https://github.com/ableshih/ableshih.github.io
+ * [new branch]      master     -> origin/master
+There is no tracking information for the current branch.
+Please specify which branch you want to rebase against.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -f
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+To https://github.com/ableshih/ableshih.github.io.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ableshih/ableshih.github.io.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git pull --rebase
+There is no tracking information for the current branch.
+Please specify which branch you want to rebase against.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ echo "# PD1" >> README.md
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git init
+Reinitialized existing Git repository in D:/CODE/hugo/Sites/ableshih/public/.git/
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git add .
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git commit -m "first commit"
+[master 5863e8a] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote add origin https://github.com/ableshih/ableshih.github.io.git
+fatal: remote origin already exists.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote rm origin
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote add origin https://github.com/ableshih/ableshih.github.io.git
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+To https://github.com/ableshih/ableshih.github.io.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ableshih/ableshih.github.io.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote add origin git@github.com:ableshih/ableshih.github.io.git
+fatal: remote origin already exists.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote rm origin
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote add origin git@github.com:ableshih/ableshih.github.io.git
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git status
+On branch master
+nothing to commit, working tree clean
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -u origin master
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote add origin https://github.com/ableshih/ableshih.github.io.git
+fatal: remote origin already exists.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote rm origin
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git remote add origin https://github.com/ableshih/ableshih.github.io.git
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git status
+On branch master
+nothing to commit, working tree clean
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+To https://github.com/ableshih/ableshih.github.io.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ableshih/ableshih.github.io.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git pull --rebase
+From https://github.com/ableshih/ableshih.github.io
+ * [new branch]      master     -> origin/master
+There is no tracking information for the current branch.
+Please specify which branch you want to rebase against.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+To https://github.com/ableshih/ableshih.github.io.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ableshih/ableshih.github.io.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -f
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git pull origin master
+From https://github.com/ableshih/ableshih.github.io
+ * branch            master     -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+To https://github.com/ableshih/ableshih.github.io.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/ableshih/ableshih.github.io.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+D:\CODE\hugo\Sites\ableshih\public (master)
+λ git push -u origin master -f
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+Enumerating objects: 296, done.
+Counting objects: 100% (296/296), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (205/205), done.
+Writing objects: 100% (296/296), 1.96 MiB | 992.00 KiB/s, done.
+Total 296 (delta 108), reused 40 (delta 4)
+remote: Resolving deltas: 100% (108/108), done.
+To https://github.com/ableshih/ableshih.github.io.git
+ + 4c3b4b3...5863e8a master -> master (forced update)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git pull origin master
+From https://github.com/ableshih/ableshih.github.io
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git commit -m "first commit 111"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git add .
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git commit -m "first commit 1113"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git remote add origin https://github.com/ableshih/ableshih.github.io.git
+fatal: remote origin already exists.
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git add .
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git init
+Reinitialized existing Git repository in D:/CODE/hugo/Sites/ableshih/public/.git/
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git add .
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git commit -m "first commit 11131"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git remote add origin https://github.com/ableshih/ableshih.github.io.git
+fatal: remote origin already exists.
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ git push
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+Everything up-to-date
+
+D:\CODE\hugo\Sites\ableshih\public (master -> origin)
+λ

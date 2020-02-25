@@ -1,0 +1,12 @@
+問題
+remote origin already exists
+
+刪除遠程分支
+git remote rm origin
+
+重新添加遠程分支
+git remote add origin git@github.com:[your git name]/[your git repertory]
+
+//如：
+
+git remote add origin git@github.com:Wbiokr/chatApp.git

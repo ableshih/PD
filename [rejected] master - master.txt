@@ -1,0 +1,40 @@
+
+出現 (兩邊內容差太多)
+λ git push -u origin master
+Username for 'https://github.com': ableshih
+Password for 'https://ableshih@github.com':
+To https://github.com/ableshih/ableshih.github.io.git
+ ! [rejected]        master -> master (non-fast-forward)
+
+方法 (先拉下來 在傳上去)
+git push -u origin master -f
+
+git pull origin master
+
+git init
+
+git add .
+
+git commit -m "first commit 111"
+
+git remote add origin https://github.com/ableshih/ableshih.github.io.git
+
+git push
+
+
+================================
+另有兩招
+
+
+第一招：先拉再推
+git pull --rebase
+
+第二招：無視規則，總之就是聽我的
+git push -f
+
+
+
+
+
+
+
