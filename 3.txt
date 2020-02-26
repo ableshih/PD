@@ -1,0 +1,397 @@
+
+
+
+常用Git命令總結
+git config --global user.name "你的名字" 讓你全部的Git倉庫綁定你的名字
+git config --global user.email "你的郵箱" 讓你全部的Git倉庫綁定你的郵箱
+git init 初始化你的倉庫
+git add . 把工作區的文件全部提交到暫存區
+git add ./<file>/ 把工作區的<file>文件提交到暫存區
+git commit -m "xxx" 把暫存區的所有文件提交到倉庫區，暫存區空空蕩盪
+git remote add origin https:// github.com/name/name_ca ngku.git 把本地倉庫與遠程倉庫連接起來
+git push -u origin master 把倉庫區的主分支master提交到遠程倉庫裡
+git push -u origin <其他分支> 把其他分支提交到遠程倉庫
+git status查看當前倉庫的狀態
+git diff 查看文件修改的具體內容
+git log 顯示從最近到最遠的提交歷史
+git clone + 倉庫地址下載克隆文件
+git reset --hard + 版本號回溯版本，版本號在commit的時候與master跟隨在一起
+git reflog 顯示命令歷史
+git checkout -- <file> 撤銷命令，用版本庫裡的文件替換掉工作區的文件。我覺得就像是Git世界的ctrl + z
+git rm 刪除版本庫的文件
+git branch 查看當前所有分支
+git branch <分支名字> 創建分支
+git checkout <分支名字> 切換到分支
+git merge <分支名字> 合併分支
+git branch -d <分支名字> 刪除分支,有可能會刪除失敗，因為Git會保護沒有被合併的分支
+git branch -D + <分支名字> 強行刪除，丟棄沒被合併的分支
+git log --graph 查看分支合併圖
+git merge --no-ff <分支名字> 合併分支的時候禁用Fast forward模式,因為這個模式會丟失分支歷史信息
+git stash 當有其他任務插進來時，把當前工作現場“存儲”起來,以後恢復後繼續工作
+git stash list 查看你剛剛“存放”起來的工作去哪裡了
+git stash apply 恢復卻不刪除stash內容
+git stash drop 刪除stash內容
+git stash pop 恢復的同時把stash內容也刪了
+git remote 查看遠程庫的信息，會顯示origin，遠程倉庫默認名稱為origin
+git remote -v 顯示更詳細的信息
+git pull 把最新的提交從遠程倉庫中抓取下來，在本地合併,和git push相反
+git rebase 把分叉的提交歷史“整理”成一條直線，看上去更直觀
+git tag 查看所有標籤，可以知道歷史版本的tag
+git tag <name> 打標籤，默認為HEAD。比如git tag v1.0
+git tag <tagName> <版本號> 把版本號打上標籤，版本號就是commit時，跟在旁邊的一串字母數字
+git show <tagName> 查看標籤信息
+git tag -a <tagName> -m "<說明>" 創建帶說明的標籤。-a指定標籤名，-m指定說明文字
+git tag -d <tagName> 刪除標籤
+git push origin <tagname> 推送某個標籤到遠程
+git push origin --tags 一次性推送全部尚未推送到遠程的本地標籤
+git push origin :refs/tags/<tagname> 刪除遠程標籤<tagname>
+git config --global color.ui true 讓Git顯示顏色，會讓命令輸出看起來更醒目
+git add -f <file> 強制提交已忽略的的文件
+git check-ignore -v <file> 檢查為什麼Git會忽略該文件
+
+
+
+
+
+https://www.itread01.com/content/1548577623.html
+新建立一個資料夾，clone（下載）專案
+git clone git://github.com/ttyttytty12/dns_test.git
+
+基本操作需要三步
+
+#git add .
+
+#git commit -m "add file"
+
+#git push (push後輸入自己設定的ssh密碼）
+
+
+建立遠端倉庫
+git remote add branch3 git@github.com:ttyttytty12/dns_test.git
+
+
+git push branch3 branch
+
+下載遠端倉庫 並且自動進入到本地分支branch
+git checkout -b branch origin/branch2
+
+
+git的命令簡介
+1，git add 將本地資料先暫存到staging area, add 之後再新增的資料, 於此次commit 不會含在裡面.
+
+2，git rm 刪除檔案
+
+3，git mv 移動檔案
+4，git status 看目前的狀態
+5，git Commit 加註釋，檢視更改內容，需要先add
+6，git branch # 列出目前有多少分支（branch），修改分支（branch）
+7，git checkout 切換branch
+8，git diff master # 與Master 有哪些資料不同，某兩個版本的差別等
+9，git Tag 加版本號
+10，git log 將所有log 秀出，某時間段的log，修改過的檔案，圖形化分支
+11，git show v1 查tag:v1 的修改內容
+12，git reset 還原 
+13，git grep "te" v1 # 查v1 是否有"te" 的字串
+14，git stash 暫存
+15，git merge 合併
+16，git blame 關於此檔案的所有commit 紀錄
+17，git ls-files -d 還原或檢視已刪除的檔案
+18，git revert 資料還原（commit）
+19，git gc # 整理前和整理後的差異, 可由: git count-objects 看到.
+20，git remote 維護遠端檔案
+21，git fetch origin 抓取/ 切換倉庫（Repository） 的branch
+22，git push origin :heads/reps-branch 刪除倉庫（Repository） 的branch
+
+23，git pull 將伺服器的資料拿出並和合併到本地工作目錄中的當前分支
+
+pull的語義不是單純的拿，而是fetch+merge。即使和本地沒區別，也會生成個空的merge commit。所以想要獲取remote origin 直接使用 git fetch origin。不要用pull。
+
+24，git push 將本地修改與版本庫合併的命令是
+
+
+Git常用操作命令收集：
+1) 遠端倉庫相關命令
+檢出倉庫：$ git clone git://github.com/jquery/jquery.git
+檢視遠端倉庫：$ git remote -v
+新增遠端倉庫：$ git remote add [name] [url]
+刪除遠端倉庫：$ git remote rm [name]
+修改遠端倉庫：$ git remote set-url --push [name] [newUrl]
+拉取遠端倉庫：$ git pull [remoteName] [localBranchName]
+推送遠端倉庫：$ git push [remoteName] [localBranchName]
+2）分支(branch)操作相關命令
+檢視本地分支：$ git branch
+檢視遠端分支：$ git branch -r
+建立本地分支：$ git branch [name] ----注意新分支建立後不會自動切換為當前分支
+切換分支：$ git checkout [name]
+建立新分支並立即切換到新分支：$ git checkout -b [name]
+刪除分支：$ git branch -d [name] ---- -d選項只能刪除已經參與了合併的分支，對於未有合併的分支是無法刪除的。如果想強制刪除一個分支，可以使用-D選項
+合併分支：$ git merge [name] ----將名稱為[name]的分支與當前分支合併
+建立遠端分支(本地分支push到遠端)：$ git push origin [name]
+刪除遠端分支：$ git push origin :heads/[name]
+3）版本(tag)操作相關命令
+檢視版本：$ git tag
+建立版本：$ git tag [name]
+刪除版本：$ git tag -d [name]
+檢視遠端版本：$ git tag -r
+建立遠端版本(本地版本push到遠端)：$ git push origin [name]
+刪除遠端版本：$ git push origin :refs/tags/[name]
+4) 子模組(submodule)相關操作命令
+新增子模組：$ git submodule add [url] [path]
+    如：$ git submodule add git://github.com/soberh/ui-libs.git src/main/webapp/ui-libs
+初始化子模組：$ git submodule init  ----只在首次檢出倉庫時執行一次就行
+更新子模組：$ git submodule update ----每次更新或切換分支後都需要執行一下
+刪除子模組：（分4步走哦）
+1) $ git rm --cached [path]
+2) 編輯“.gitmodules”檔案，將子模組的相關配置節點刪除掉
+3) 編輯“ .git/config”檔案，將子模組的相關配置節點刪除掉
+4) 手動刪除子模組殘留的目錄
+5）忽略一些檔案、資料夾不提交
+在倉庫根目錄下建立名稱為“.gitignore”的檔案，寫入不需要的資料夾名或檔案，每個元素佔一行即可，如
+target
+bin
+*.db
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+基本技巧
+1.安裝後的第一步
+安裝git後，第一件事你需要設置你的名字和郵箱，因為每次提交都需要這些信息。
+
+$ git config --global user.name "Some One" 
+$ git config --global user.email "someone@gmail.com"
+
+
+兩個母體（Parent）
+
+合併衝突
+
+
+git checkout master flash/foo.fla # or... 
+git checkout feature132 flash/foo.fla
+
+
+遠程服務
+
+git remote add john git@github.com:johnsomeone/someproject.git
+
+查看遠程服務端的信息
+# shows URLs of each remote server 
+$ git remote -v
+
+# gives more details about each 
+$ git remote show name
+
+
+標籤
+$ git tag to-be-tested
+$ git tag -a v1.1.0 # Prompts for a tag message
+
+創建分支
+$ git branch feature132
+$ git checkout feature132
+
+合併分支
+$ git checkout master
+$ git merge feature83 # Or... 
+$ git rebase feature83
+
+
+遠程分支
+
+本地分支放置遠程服務端
+$ git push origin twitter-experiment:refs/heads/twitter-experiment
+ # Where origin is our server name and twitter-experiment is the branch
+$ git push origin :twitter-experiment
+
+
+
+
+刪除分支
+$ git push origin :twitter-experiment
+
+
+查看遠程分支的狀態：
+$ git remote show origin
+
+
+
+查看日誌
+
+$ git log -p
+
+$ git log --stat
+
+
+在日誌中查找
+$ git log --author = Andy
+
+
+重置更改
+$ git reset HEAD lib/foo.rb
+$ git config --global alias.unstage "reset HEAD" 
+$ git unstage lib/foo.rb
+
+rebase的交互
+$ git rebase -i master~3
+
+
+清除
+$ git filter-branch --tree-filter 'rm -f *.class' HEAD
+$ git filter-branch --tree-filter 'rm -f *.class' origin/master .. HEAD
+
+
+分支命名
+$ # Generate a changelog of Release 132 
+$ git shortlog release/132 ^release/131
+$ # Tag this as v1.0.1 
+$ git tag v1.0.1 release/132
+
+恢復失去的分支
+$ git branch experimental SHA1_OF_HASH
+
+
+
+git init .初始化
+git add . 後面的一個點表示把這個文件全部提交到暫存區
+git commit -m "你要評論一點什麼東西" git commit的意思是把暫存區的全部文件提交到本地倉庫。-m後接評論。
+git remote add origin https:// github.com/name/na...
+git push -u origin master 把本地倉庫提交到遠程倉庫。(最後一步)在你的遠程倉庫上刷新一下就可以看到你提交的文件了。
+
+刪除
+git rm
+
+刪除分支
+git branch -d + 分支有可能會刪除失敗，因為Git會保護沒有被合併的分支。
+git branch -D + 分支強行刪除，丟棄沒被合併的分支。
+多人協作
+git remote 查看遠程庫的信息，會顯示origin，遠程倉庫默認名稱為origin
+git remote -v顯示更詳細的信息
+git push -u origin master推送master分支到origin遠程倉庫。
+git push -u origin other 推送other到origin遠程倉庫。
+抓取分支
+git pull
+
+Rebase
+git rebase 把分叉的提交歷史“整理”成一條直線，看上去更直觀.缺點是本地的分叉提交已經被修改過了。
+
+最後在進行git push -u origin master
+
+rebase的目的是使得我們在查看歷史提交的變化時更容易，因為分叉的提交需要三方對比。
+
+
+
+
+
+
+
+
+
+
+git config --global alias.ck checkout
+
+git config --global alias.cm commit
+
+git config --global alias.bc branch
+
+
+git ck master
+
+
+~/.gitconfig
+
+
+git stash
+
+
+git stash pop
+
+git diff commit1..commitN -- path/to/file
+
+
+想比較兩次commit之間的差異：
+git diff commit1..commitN
+
+
+git config --global diff.tool git-meld
+
+
+git difftool commit1..commitN -- path/to/file
+
+
+
+Reset重置文件 有時候，你修改了文件後，發現修改的多餘了，想反悔，在git中反悔很容易你只需要reset即可。可以將所有文件重置為分支的HEAD，不需要在編輯的內容上單擊撤銷：
+
+git reset --hard HEAD
+
+或者，撤銷單個文件文件，可以用：
+
+git checkout HEAD -- path/to/file
+
+如果已經提commit了變化，但仍希望還原，可以使用：
+
+git reset --soft HEAD~1
+
+
+git blame -w #忽略空格
+
+git blame -M #忽略挪移了的內容
+
+git blame -C #忽略挪移到其他文件中的內容
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
