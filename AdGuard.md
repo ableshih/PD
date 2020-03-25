@@ -1,7 +1,7 @@
 
 https://github.com/AdguardTeam/AdGuardHome/wiki/Raspberry-Pi
 
-
+https://wayne65.ap.ngrok.io/wp/%E5%9C%A8raspberry-pi-%E6%9E%B6%E8%A8%ADadguard-home%E6%93%8B%E5%BB%A3%E5%91%8Adns%E7%A5%9E%E5%99%A8/
 
 Raspberry Pi 
 
@@ -11,6 +11,7 @@ in pi
 -------------
 # enable ssh
 sudo systemctl enable ssh
+
 sudo systemctl start ssh
 
 # get ip
@@ -22,6 +23,7 @@ in PuTTY
 ip
 
 pi
+
 123
 
 Installing AdGuard
