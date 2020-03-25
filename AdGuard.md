@@ -3,7 +3,9 @@ https://github.com/AdguardTeam/AdGuardHome/wiki/Raspberry-Pi
 
 
 
-Raspberry Pi
+Raspberry Pi 
+
+Raspbian Buster with desktop
 
 in pi
 -------------
